@@ -1,0 +1,156 @@
+.container ul.nav-pills{
+    padding-right:88px;
+}
+.container h3.text-muted {
+    height: 70px;
+    color: #ececec;
+    background-color: #292929;
+    line-height: 58px;
+}
+.container .header nav ul li{
+    line-height: 47px;
+}
+.container .content{
+    width: 1088px;
+    height: 1080px;
+    border:1px solid #e0e0e0;
+}
+.container .content .content-neirong{
+    width: 74%;
+    margin-left: 15%;
+    border:1px solid #ececec;
+    border-top:0;
+}
+.content .content-neirong .content-left
+,.content-right{
+    padding-top:5%;
+
+}
+ .content .content-neirong .content-left{
+    float: left;
+    width: 60%;
+    background-color:#fff;
+}
+.content .content-neirong .content-left p,
+.content .content-neirong .content-left h5,button{
+    margin-left:10px;
+}
+.content .content-neirong .content-left .left-box1{
+    margin-bottom:98px;
+}
+ .content .content-neirong .content-left img{
+    width: 100%;
+     height: 248px;
+}
+ .content .content-neirong .content-left h5{
+    color:#000;
+    font-weight:600;
+
+}
+ .content .content-neirong .content-left .dir-color{
+    color:#6b6b6b;
+}
+.content .content-neirong .content-left button{
+    width: 140px;
+    height: 32px;
+    border:1px solid #c2c2c2;
+    border-radius:20px;
+    color: #c2c2cc;
+    background-color:white;
+}
+.container .content .content-neirong .content-right{
+    margin-left: 62%;
+    width: 38%;
+    height: 992px;
+   /* background-color:mediumpurple;*/
+}
+.container .content .content-neirong .content-right li{
+    list-style:none;
+}
+.container .content .content-neirong .content-right li h5{
+    border-left:2px solid #58c93a;
+    width: 100%;
+    height: 30px;
+    background-color:#f8f8f8;
+    color:#6c6a6b;
+    line-height:30px;
+    font-weight:600;
+    font-size:14px;
+    padding-left:6px;
+}
+.container .content .content-neirong .content-right li p{
+    color:#333;
+}
+.container .content .content-neirong .content-right li.one{
+    margin-bottom:146px;
+}
+.container .content .content-neirong .content-right li.two{
+      margin-bottom:40px;
+}
+.container .content .content-neirong .content-right li .search{
+    width: 100%;
+    height: 30px;
+    line-height:30px;
+    font-size:12px;
+    color:#c0c0c0;
+    border:1px solid #ebebeb;
+    border-right:0;
+    padding-left:6px;
+}
+.container .content .content-neirong .content-right li .search img{
+    position:relative;
+    left:128px;
+    top: -1px;
+    width: 26px;
+    height: 26px;
+}
+.container .content .previous{
+    margin-top: 25px;
+    height: 60px;
+    border: 1px solid #ececec;
+    padding-top: 20px;
+    border-bottom: 0;
+}
+.container .content .previous img{
+    width: 30px;
+    height: 15px;
+}
+.container .content .previous span{
+    color:#818181;
+    font-weight:700;
+    padding:10px 0;
+}
+.container .content .previous .previous-left{
+    float:left;
+}
+.container .content .previous .previous-right{
+    margin-left:89%;
+}
+.container .footer{
+    padding-top:20px;
+    width: 1088px;
+    background-color: #f8f8f8;
+}
+.container .footer .center{
+    margin:0 auto;
+    width: 468px;
+    height: 180px;
+    background-color:#f8f8f8;
+}
+.container .footer .center h3{
+    margin-left: 43%;
+}
+.container .footer .center .center-first img{
+    width: 10px;
+    height: 10px;
+}
+.container .footer .center span{
+    color:#a5a5a5;
+    font-size:12px;
+}
+.container .footer .center .center-two{
+    margin-left: 25%;
+}
+.container .footer .center .center-two img{
+    margin-right:18px;
+}
